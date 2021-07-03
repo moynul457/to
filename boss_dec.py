@@ -147,7 +147,7 @@ def lisensi():
 ####login#########
 def login():
     os.system('clear')
-    print "logo1"
+    print 
     print "\033[1;93m[1]\x1b[1;94mStart cloning ( no login )"
     time.sleep(0.05)
     print '\x1b[1;93m[0]\033[1;94m Exit ( C u soon )'
