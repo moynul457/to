@@ -84,7 +84,7 @@ print  """
 
 ####Logo####
 
-logo1 = """
+logo1 = """\n\x1b[1;91m<<-------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : MOYNUL HASSAN   \n\x1b[1;93m\xe2\x9e\xa3 From     : Bogura  \n\x1b[1;93m\xe2\x9e\xa3 FB group : Termux help centre bd \n\x1b[1;93m\xe2\x9e\xa3 Help     : sent sms thcb modaretor moynul hassan.\n\x1b[1;91m<<-------------------------------------------------->>\n                                '
 
 
 
@@ -147,7 +147,7 @@ def lisensi():
 ####login#########
 def login():
     os.system('clear')
-    print logo1
+    print "logo1"
     print "\033[1;93m[1]\x1b[1;94mStart cloning ( no login )"
     time.sleep(0.05)
     print '\x1b[1;93m[0]\033[1;94m Exit ( C u soon )'
@@ -162,7 +162,7 @@ def pilih_login():
         Zeek()
 def Zeek():
     os.system('clear')
-    print logo1
+    print "logo1"
     print '\x1b[1;94m[1] Start Cracking'
     time.sleep(0.05)
     print '\x1b[1;94m[0] \033[1;93m Back'
@@ -176,7 +176,7 @@ def action():
         action()
     elif peak =="1":              
         os.system("clear")
-        print logo2
+        print "logo2"
         print "Enter any Pakistan Mobile code Number"+'\n'
         print 'Enter any code 1 to 49'
         try:
