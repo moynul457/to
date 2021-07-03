@@ -93,16 +93,16 @@ logo1 = """
 
 
 
-\033[1;96m---------------------Qaiser---------------------
 
-\033[1;94mCreater      : \033[1;93mQaiserAbbas
-\033[1;94mFacebook: \033[1;93mQaiserAbbas
-\033[1;94mYoutube  : \033[1;93mhttps://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g
-\033[1;94mIts Not A Name Its Brand \033[1;92mQaiser
-\033[1;94mNo Login Need Enjoy without any problem
-\033[1;95mSpeed Commands Country code
 
-\033[1;96m-----------------Abbas-------------------------
+
+
+
+
+
+
+
+
 """
 logo2 = """
 \033[1;95m╭━━━╮
