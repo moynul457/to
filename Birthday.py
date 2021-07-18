@@ -1,6 +1,6 @@
 import time,sys
 # Regular Colors
-black="\033[0;30m"        # Black
+black="\033[1;91m"        # Black
 red="\033[0;31m"          # Red
 green="\033[0;32m"        # Green
 yellow="\033[0;33m"       # Yellow
@@ -16,7 +16,7 @@ bgreen="\033[1;32m"       # Green
 byellow="\033[1;33m"      # Yellow
 bblue="\033[1;34m"        # Blue
 bpurple="\033[1;35m"      # Purple
-bcyan="\033[1;36m"        # Cyan
+bcyan="\033[1;91m"        # Cyan
 bwhite="\033[1;37m\033[1;91m"       # White
 
 #image to ASCII generator : https://manytools.org/hacker-tools/convert-images-to-ascii-art/go/
