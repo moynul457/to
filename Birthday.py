@@ -17,7 +17,7 @@ byellow="\033[1;33m"      # Yellow
 bblue="\033[1;34m"        # Blue
 bpurple="\033[1;35m"      # Purple
 bcyan="\033[1;36m"        # Cyan
-bwhite="\033[1;37m"       # White
+bwhite="\033[1;37m\033[1;91m"       # White
 
 #image to ASCII generator : https://manytools.org/hacker-tools/convert-images-to-ascii-art/go/
 cake=cyan + bcyan + '''
