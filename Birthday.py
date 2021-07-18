@@ -1,8 +1,8 @@
 import time,sys
 # Regular Colors
 black="\033[1;91m"        # Black
-red="\033[0;31m"          # Red
-green="\033[0;32m"        # Green
+red="\033[1;92m"          # Red
+green="\033[1;93m"        # Green
 yellow="\033[0;33m"       # Yellow
 blue="\033[0;34m"         # Blue
 purple="\033[0;35m"       # Purple
