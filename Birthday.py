@@ -12,7 +12,7 @@ white="\033[0;37m"        # White
 # Bold
 bblack="\033[1;30m"       # Black
 bred="\033[1;31m"         # Red
-bgreen="\033[1;32m"       # Green
+bgreen="\033[1;32m"       # Greenje
 byellow="\033[1;33m"      # Yellow
 bblue="\033[1;34m"        # Blue
 bpurple="\033[1;35m"      # Purple
@@ -22,7 +22,7 @@ bwhite="\033[1;37m\033[1;91m"       # White
 #image to ASCII generator : https://manytools.org/hacker-tools/convert-images-to-ascii-art/go/
 cake=cyan + bcyan + '''
 
-           _..._  ,s$$$s.                                                                                          _..._  ,s$$$s.
+print" \033[1;91m          _..._  ,s$$$s.                                                                                          _..._  ,s$$$s.
          .$$$$$$$s$$ss$$$$,                                                                                     .$$$$$$$s$$ss$$$$,
          $$$sss$$$$s$$$$$$$                                                                                     $$$sss$$$$s$$$$$$$
          $$ss$$$$$$$$$$$$$$                                   (             )                                   $$ss$$$$$$$$$$$$$$
